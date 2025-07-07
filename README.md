@@ -2,6 +2,7 @@
 **An Online Eco-Friendly Grocery Store | Built with MERN Stack**
 
 ![Main Banner](https://img.freepik.com/free-photo/organic-food-background_23-2148579986.jpg?w=1480)
+![VegBucket Screenshot](https://drive.google.com/uc?export=view&id=1OawERr523nAkftPGAabIUUX8ofO0755y)
 
 🌐 **Live Demo**: [VegBucket-GreenShop](https://veg-bucket-green-shop-bgpr.vercel.app/)
 
