@@ -36,16 +36,3 @@
 | 🏠 Homepage | 🛒 Cart Page | 🔐 Login Page |
 |------------|-------------|---------------|
 | ![Home](https://via.placeholder.com/300x160?text=Homepage) | ![Cart](https://via.placeholder.com/300x160?text=Cart+Page) | ![Login](https://via.placeholder.com/300x160?text=Login+Page) |
-
-> _You can replace these with real screenshots or GIFs of your deployed site._
-
----
-
-## 🧱 Application Architecture
-
-```mermaid
-graph TD
-A[React Frontend (Client)] -->|API Requests| B[Express Server (Backend)]
-B --> C[MongoDB Database]
-B --> D[JWT Auth & Middleware]
-C --> B
